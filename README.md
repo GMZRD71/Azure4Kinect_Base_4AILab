@@ -1,10 +1,18 @@
 # Azure4Kinect_Base_4AILab
  Azure for Kinect and Unity Integration Files
  
-This is a demonstration of how we used one of the Azure Kinect examples developed by RF Solutions Inc.
-We tracked multiple skeletons (human subjects) and ported their motion live into a virtual environment created in Unity 2018.4.11f1.
-The human subjects were represented as avatars in the virtual environment.  
-Below is a brief sample of the tracking and avatar motion.
+Usage of four Kinect v4 Azure depth sensors and a modified version of the demonstration
+by RF Solutions Inc. with our own virtual environments to track multiple people and
+map their motion into multiple avatars in our environments.
+
+The virtual environments were created in Unity 2018.4.11f1.
+
+Below are a couple of brief examples of the tracking and avatar motion.
+
 
 
 ![](Tracking_VirtualEnv.gif)
+![](Lab_Demo2.gif)
+![](Lab_Demo3.gif)
+
+
