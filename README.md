@@ -12,4 +12,4 @@ Below are a couple of brief examples of the tracking and avatar motion.
 
 ![](walking_in_AI_lab.gif)
 ![](Lab_Demo2.gif)
-![](Lab_Demo3.gif)
+![](Lab Demo3.gif)
