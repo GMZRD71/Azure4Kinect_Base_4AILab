@@ -20,6 +20,7 @@ These include the virtual environments in various labs and hallway in our buildi
 ![](Lab_Demo2.gif)
 
 ### Example of Another Lab Environment Developed in Unity 2019.4.13
+![Overview of Lab](https://user-images.githubusercontent.com/55105714/107585632-3e6c9e80-6bc4-11eb-967c-45b537ebe3f1.png)
 ![Lab Overhead View1](https://user-images.githubusercontent.com/55105714/107584835-cbaef380-6bc2-11eb-9ccc-995c471b49ed.png)
 ![Lab Overhead View2](https://user-images.githubusercontent.com/55105714/107585006-0dd83500-6bc3-11eb-82f4-fdae9e0cfbd6.png)
 ![Lab Overhead View3](https://user-images.githubusercontent.com/55105714/107585016-10d32580-6bc3-11eb-9b02-a12a90599736.png)
