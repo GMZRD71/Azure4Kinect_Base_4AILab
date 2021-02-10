@@ -9,9 +9,6 @@ The virtual environments were created in Unity 2018.4.11f1.
 
 Below are a couple of brief examples of the tracking and avatar motion.
 
-
-
-![](Tracking_VirtualEnv.gif)
 ![](Lab_Demo2.gif)
 ![](Lab_Demo3.gif)
 ![](walking_in_AI_lab.gif)
